@@ -20,3 +20,5 @@ profile:
   team:
     name: ""
   role: student
+  
+  http://s3.amazonaws.com/files.rai-project.com/userdata/build-631a7435d1cca9bd93f2a162.tar.gz
